@@ -13,4 +13,4 @@ while (numero !== numeroS){
     numero = Number (input.question('Qual numero voce escolhe?'))
 }
 
-console.log('Voce acertou')
+console.log('Voce acertou') 
